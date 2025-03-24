@@ -1,0 +1,19 @@
+김성환강사
+kgmyh@naver.com
+010-5352-6220
+
+
+conda config --add channels conda-forge && conda config --set  channel_priority strict
+
+파일 업로드 시
+
+git add .
+
+git commit -m "첫번째 파일 올리기"
+
+git push origin main
+
+파일 다운로드시 
+
+git pull
+
